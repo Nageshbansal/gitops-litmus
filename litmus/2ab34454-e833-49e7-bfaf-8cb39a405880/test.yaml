@@ -4,7 +4,7 @@ metadata:
   creationTimestamp: null
   labels:
     infra_id: 0f3a63e3-bdcd-4685-9741-a5df5366b0b2
-    revision_id: c5443639-e5fc-4122-b56a-8f7c56ed6f27
+    revision_id: 6ace01ba-e96c-4bcc-a586-6b3bfd36470c
     workflow_id: 4ca1121b-daf2-4ee6-a3e1-f3ea8c890af0
     workflows.argoproj.io/controller-instanceid: 0f3a63e3-bdcd-4685-9741-a5df5366b0b2
   name: test
